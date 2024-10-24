@@ -45,7 +45,7 @@ nav ul li a:hover {
 main {
     padding: 20px;
     color: white;
-    background-image: banner.jpg;
+    background-image: "banner.jpg";
     margin: 20px auto;
     max-width: 1200px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
